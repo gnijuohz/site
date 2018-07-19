@@ -1,12 +1,12 @@
-baseURL = "http://example.org/"
+baseURL = "https://jing-zhou.xyz/"
 languageCode = "en-us"
 title = "Jing Zhou"
 theme = "kiss"
-copyright = "&copy; <a href=\"https://github.com/ribice\">Jing Zhou</a> 2018"
+copyright = "&copy; <a href=\"https://github.com/gnijuohz\">Jing Zhou</a> 2018"
 disqusShortname = "gnijuohz"
 googleAnalytics = ""
 # Number of posts per page
-Paginate = 5
+Paginate = 8
 enableRobotsTXT = true
 
 
